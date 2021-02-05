@@ -1,0 +1,9 @@
+Flask
+jupyter
+matplotlib
+pandas
+plotly
+pytest
+rasterstats
+Sphinx
+typing
